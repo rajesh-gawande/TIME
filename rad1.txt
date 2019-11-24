@@ -1,4 +1,2 @@
 this is the first program in ubuntu
-hello`:wq
-
-
+hello
